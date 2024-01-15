@@ -4,7 +4,7 @@ This Python program is a quiz software management system that interacts with a M
 
 ## Database Connection
 - The program uses the `mysql.connector` module to connect to a MySQL database named `quiz_comp` running on the local machine.
-- 
+  
 ## Tables
 The program interacts with the following tables in the database:
 1. `questions1`: General questions for various subjects.
